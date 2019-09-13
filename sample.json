@@ -1,0 +1,630 @@
+{
+  "groups": [
+    {
+      "articles": [
+        {
+          "byLine": "By Shannon Sims",
+          "coordinates": {
+            "lat": 29.7566377,
+            "lng": -95.35506679999999
+          },
+          "firstParagraph": "From being ranked the Most Charitable City in the country to the Best City for Foodies, once-overlooked Houston has won its fair share of prizes in the last couple of years. But perhaps no prize mattered more to Houstonians than when their Major League Baseball team, the Astros, won the 2017 World Series, thanks in no small part to the seven-time All-Star pitcher and Cy Young Award winner, Justin Verlander. Mr. Verlander, a newcomer to the city, quickly achieved deity status here, which he further cemented when days later he married his girlfriend, often described as one of the most beautiful women in the world, the supermodel Kate Upton. Ms. Upton has rocked the cover of Sports Illustrated (several times), Vanity Fair, Esquire and Vogue to name a few, and starred in movies and music videos along the way.",
+          "generalLocation": "Houston (Tex)",
+          "headline": "Five Places to Visit in Houston",
+          "imageSmall": "images/2019/06/28/travel/28Houston-5Places6/merlin_156524679_9d83e99f-ea43-4e6f-84c9-112c575a9f70-blog225.jpg",
+          "pubDate": "2019-06-28T09:00:16+0000",
+          "snippet": "Houston Astros pitcher Justin Verlander and his wife, supermodel Kate Upton, are foodies at heart. So what better city to call home than Houston?",
+          "url": "https://www.nytimes.com/2019/06/28/travel/five-places-to-visit-in-houston-justin-verlander-kate-upton.html"
+        }
+      ],
+      "coordinates": {
+        "lat": 29.7566377,
+        "lng": -95.35506679999999
+      },
+      "numberArticles": 1
+    },
+    {
+      "articles": [
+        {
+          "byLine": "By Dave Itzkoff",
+          "coordinates": {
+            "lat": 34.0666305,
+            "lng": -118.4070064
+          },
+          "firstParagraph": "The premise of the comedy â€œYesterdayâ€ is surreal and yet tantalizingly simple: What if you woke up to discover you were the only person who still remembered the music of the Beatles? And what if you used this knowledge to recreate these songs for a world that had never heard of this uniquely famous and ubiquitous rock group, propelling yourself to superstardom in the process?",
+          "generalLocation": "none",
+          "headline": "The Long and Winding Road to â€˜Yesterday,â€™ a Film Full of Beatles Music",
+          "imageSmall": "images/2019/06/30/arts/30YESTERDAY-SONGS/30YESTERDAY-SONGS-blog225.jpg",
+          "pubDate": "2019-06-28T09:00:18+0000",
+          "snippet": "Want to make a movie about the enduring power of the Beatles? Youâ€™ll need a lot of their songs, and more than a little help from your friends.",
+          "url": "https://www.nytimes.com/2019/06/28/movies/yesterday-movie-beatles-songs.html"
+        }
+      ],
+      "coordinates": {
+        "lat": 34.0666305,
+        "lng": -118.4070064
+      },
+      "numberArticles": 1
+    },
+    {
+      "articles": [
+        {
+          "byLine": "By Gia Kourlas",
+          "coordinates": {
+            "lat": 40.7669315,
+            "lng": -73.9868587
+          },
+          "firstParagraph": "What comes after grace? For the choreographer Ronald K. Brown, the answer is easy: mercy.",
+          "generalLocation": "none",
+          "headline": "For Ronald K. Brown, â€˜Graceâ€™ Endures and Brings â€˜Mercyâ€™",
+          "imageSmall": "images/2019/06/30/arts/30brownatbard-1/merlin_156614151_aabeddef-66c3-48ff-a673-f1d44115fe29-blog225.jpg",
+          "pubDate": "2019-06-28T14:00:09+0000",
+          "snippet": "Bard SummerScape is honoring the choreographerâ€™s 20-year-old â€œGraceâ€ with live music â€” and a new collaboration with the musician Meshell Ndegeocello.",
+          "url": "https://www.nytimes.com/2019/06/28/arts/dance/ronald-k-brown-grace-mercy-bard.html"
+        }
+      ],
+      "coordinates": {
+        "lat": 40.7669315,
+        "lng": -73.9868587
+      },
+      "numberArticles": 1
+    },
+    {
+      "articles": [
+        {
+          "byLine": "By Mahira Rivers",
+          "coordinates": {
+            "lat": 40.6847466,
+            "lng": -73.92911629999999
+          },
+          "firstParagraph": "It isnâ€™t the smell of smoke that greets you when you walk through the door of Peri Peri Grill House in Bedford-Stuyvesant, Brooklyn; itâ€™s the sight of it. The hard-working grill in the open kitchen exhales smoke in billows that dissipate quickly into the dining room, but not before leaving a defining mark on all the food it touches.",
+          "generalLocation": "Bedford-Stuyvesant (Brooklyn, NY)",
+          "headline": "South Africa Meets South Asia at Peri Peri Grill House",
+          "imageSmall": "images/2019/06/27/dining/27HUNGRY-slide-U717/27HUNGRY-slide-U717-blog225.jpg",
+          "pubDate": "2019-06-27T15:52:44+0000",
+          "snippet": "Smoke, spice and an eclectic menu are the hallmarks of this small restaurant in Bedford-Stuyvesant, Brooklyn.",
+          "url": "https://www.nytimes.com/2019/06/27/dining/peri-peri-grill-house-review.html"
+        },
+        {
+          "byLine": "",
+          "coordinates": {
+            "lat": 40.6847466,
+            "lng": -73.92911629999999
+          },
+          "firstParagraph": "This restaurant in Bedford-Stuyvesant, Brooklyn, has a hard-working grill in the open kitchen that exhales smoke in billows.",
+          "generalLocation": "Bedford-Stuyvesant (Brooklyn, NY)",
+          "headline": "Fiery Chicken Inspired by Nandoâ€™s",
+          "imageSmall": "images/2019/06/27/dining/27HUNGRY-slide-U717/27HUNGRY-slide-U717-blog225.jpg",
+          "pubDate": "2019-06-27T15:51:40+0000",
+          "snippet": "This restaurant in Bedford-Stuyvesant, Brooklyn, has a hard-working grill in the open kitchen that exhales smoke in billows.",
+          "url": "https://www.nytimes.com/slideshow/2019/06/27/dining/peri-peri-grill-brooklyn.html"
+        }
+      ],
+      "coordinates": {
+        "lat": 40.6847466,
+        "lng": -73.92911629999999
+      },
+      "numberArticles": 2
+    },
+    {
+      "articles": [
+        {
+          "byLine": "By Ben Brantley",
+          "coordinates": {
+            "lat": 40.7724641,
+            "lng": -73.9834889
+          },
+          "firstParagraph": "Donâ€™t look for God within the cloisters of â€œIn the Green,â€ Grace McLeanâ€™s oddball musical portrait of the sainted medieval nun, theologist and composer Hildegard von Bingen. Though Hildegard (1098-1179) was celebrated for having a direct line to the almighty, via holy visions, the Judeo-Christian deity is invoked but briefly in this LCT3 production, and then only as an interjection (as in â€œoh, God, Iâ€™m suffocatingâ€).",
+          "generalLocation": "none",
+          "headline": "Review: A Singing Nun Struggles With PTSD in â€˜In the Greenâ€™",
+          "imageSmall": "images/2019/06/28/arts/28inthegreen/merlin_156450465_344912a4-857b-4b5c-80f5-14a4309e5d10-blog225.jpg",
+          "pubDate": "2019-06-28T01:45:06+0000",
+          "snippet": "Grace McLeanâ€™s eccentric and opaque new musical considers the traumatic roots of the sainted medieval mystic and composer Hildegard von Bingen.",
+          "url": "https://www.nytimes.com/2019/06/27/theater/in-the-green-review.html"
+        }
+      ],
+      "coordinates": {
+        "lat": 40.7724641,
+        "lng": -73.9834889
+      },
+      "numberArticles": 1
+    },
+    {
+      "articles": [
+        {
+          "byLine": "By James Poniewozik",
+          "coordinates": {
+            "lat": 40.757181,
+            "lng": -73.969158
+          },
+          "firstParagraph": "The second night of the Democratic debates had the same location as the first, the same set, the same moderators, the same format and the same number of randomly selected candidates.",
+          "generalLocation": "Miami (Fla)",
+          "headline": "On Night 2, the Democratic Debate Wakes Up and Shakes Up",
+          "imageSmall": "images/2019/06/28/arts/28debatetv/28debatetv-blog225.jpg",
+          "pubDate": "2019-06-28T13:58:47+0000",
+          "snippet": "Thursday nightâ€™s second round for the Democrats yielded conflict and a potent TV moment.",
+          "url": "https://www.nytimes.com/2019/06/28/arts/television/debate-moments-highlights.html"
+        },
+        {
+          "byLine": "By James Poniewozik",
+          "coordinates": {
+            "lat": 40.757181,
+            "lng": -73.969158
+          },
+          "firstParagraph": "Halfway through the first Democratic primary debate in Miami Wednesday night, NBC brought on a second shift of moderators â€” four hours over two nights, youâ€™ve got to conserve your energy. Chuck Todd began to ask a question about gun violence. Then he stopped.",
+          "generalLocation": "none",
+          "headline": "At the First Debate, an Audio Snarl and a Traffic Jam",
+          "imageSmall": "images/2019/06/27/arts/27debateTV2/27debateTV2-blog225.jpg",
+          "pubDate": "2019-06-27T13:36:17+0000",
+          "snippet": "The Democratsâ€™ prime-time debut was like a big ensemble TV pilot, with a lot of characters to manage.",
+          "url": "https://www.nytimes.com/2019/06/27/arts/television/2020-dems-debate-lineup.html"
+        }
+      ],
+      "coordinates": {
+        "lat": 40.757181,
+        "lng": -73.969158
+      },
+      "numberArticles": 2
+    },
+    {
+      "articles": [
+        {
+          "byLine": "By Noel Murray",
+          "coordinates": {
+            "lat": 37.2595658,
+            "lng": -121.962695
+          },
+          "firstParagraph": "Every month, Netflix Australia adds a new batch of movies and TV shows to its library. Here are our picks for July, broken down by release date.",
+          "generalLocation": "Australia",
+          "headline": "The Best Movies and TV Shows New to Netflix Australia in July",
+          "imageSmall": "images/2019/06/28/arts/28netflixaustralia-1/cd7bb4476a964de4b4b012f3111b5a3b-blog225.jpg",
+          "pubDate": "2019-06-28T02:52:14+0000",
+          "snippet": "Every month, Netflix Australia adds a new batch of movies and TV shows to its library. Here are the titles we think are most interesting for July.",
+          "url": "https://www.nytimes.com/2019/06/27/arts/television/netflix-australia-new-best-movies.html"
+        }
+      ],
+      "coordinates": {
+        "lat": 37.2595658,
+        "lng": -121.962695
+      },
+      "numberArticles": 1
+    },
+    {
+      "articles": [
+        {
+          "byLine": "By Melissa Coleman",
+          "coordinates": {
+            "lat": 44.1844817,
+            "lng": -69.0760975
+          },
+          "firstParagraph": "If Maineâ€™s much-debated slogan, â€œthe way life should be,â€ were a place, the towns of Camden and Rockport and their surroundings might be it. On the Eastern Seaboard, where mountains meet ocean, the area has long attracted rusticators and â€œvacationlandersâ€ who far outnumber residents in summer. These clapboard-and-brick towns sit two miles apart on schooner-spotted harbors next to rounded mountains and sparkling freshwater lakes. What more does a rural getaway need? In this case, itâ€™s a vibrant community of year-round locals whoâ€™ve created a nexus of arts, dining and outdoor activities to rival some cities. The areaâ€™s charm lies in an authentic belief in family businesses, locally grown food and ingenuity against the odds. Not to mention, they made it through the winter, and summer is everyoneâ€™s reward.",
+          "generalLocation": "Rockport (Me)",
+          "headline": "36 Hours in Camden and Rockport, Maine (and Environs)",
+          "imageSmall": "images/2019/06/27/travel/27Hours-Camden-Rockport-Maine1/merlin_156580836_c4312b78-c843-4524-8c22-0c4a219c62b8-blog225.jpg",
+          "pubDate": "2019-06-27T09:00:20+0000",
+          "snippet": "On the central coast of Maine, visitors will find a beguiling nexus of arts, dining and outdoor activities.",
+          "url": "https://www.nytimes.com/2019/06/27/travel/what-to-do-in-camden-rockport-maine.html"
+        }
+      ],
+      "coordinates": {
+        "lat": 44.1844817,
+        "lng": -69.0760975
+      },
+      "numberArticles": 1
+    },
+    {
+      "articles": [
+        {
+          "byLine": "By Robin Pogrebin",
+          "coordinates": {
+            "lat": 40.7274849,
+            "lng": -74.0051274
+          },
+          "firstParagraph": "Rem Koolhaasâ€™s architecture firm OMA has become known for repurposing buildings and championing preservation combined with innovation, from the Fondazione Prada in Milan to the Garage Museum of Contemporary Art in Moscow. And on setting out to design the New Museumâ€™s expansion in an adjacent property â€” a former restaurant supply company on the Bowery â€” the firm initially planned to work within the existing structure.",
+          "generalLocation": "Bowery (Manhattan, NY)",
+          "headline": "A Newer New Museum Is Coming, With Twice as Much Space",
+          "imageSmall": "images/2019/06/27/arts/26museum1/26museum1-blog225.jpg",
+          "pubDate": "2019-06-26T20:00:06+0000",
+          "snippet": "Rather than renovate the building next door, OMA started from scratch and designed an architecturally distinct expansion on the Bowery.",
+          "url": "https://www.nytimes.com/2019/06/26/arts/design/new-museum-oma-koolhaas-bowery-addition.html"
+        }
+      ],
+      "coordinates": {
+        "lat": 40.7274849,
+        "lng": -74.0051274
+      },
+      "numberArticles": 1
+    },
+    {
+      "articles": [
+        {
+          "byLine": "By Scott Reyburn",
+          "coordinates": {
+            "lat": 47.58810219999999,
+            "lng": 7.6510161
+          },
+          "firstParagraph": "LONDON â€” Works by female artists of African origin created the highest-energy moments in Phillipsâ€™s summer sale in London Thursday. It was the last of the evening auctions that are the traditional finale of the contemporary art marketâ€™s hectic seasonal cycle.",
+          "generalLocation": "none",
+          "headline": "Female Artists With African Backgrounds Are Winners at Phillips Auction in London",
+          "imageSmall": "images/2019/06/27/arts/27london-auctionpix/merlin_157111023_52b657d3-bf03-4555-8aca-7425053e4818-blog225.jpg",
+          "pubDate": "2019-06-28T01:36:48+0000",
+          "snippet": "Paintings by Lynette Yiadom-Boakye and Marlene Dumas bring in double their estimates, as do others at Christieâ€™s and Sothebyâ€™s.",
+          "url": "https://www.nytimes.com/2019/06/27/arts/design/female-artists-with-african-backgrounds-are-winners-at-phillips-auction-in-london.html"
+        }
+      ],
+      "coordinates": {
+        "lat": 47.58810219999999,
+        "lng": 7.6510161
+      },
+      "numberArticles": 1
+    },
+    {
+      "articles": [
+        {
+          "byLine": "By Isvett Verde",
+          "coordinates": {
+            "lat": 25.7616798,
+            "lng": -80.1917902
+          },
+          "firstParagraph": "El Espace is a column dedicated to news and culture relevant to Latinx communities. Expect politics, arts, analysis, personal essays and more. Â¿Lo mejor? Itâ€™ll be in Spanish and English, so you can forward it to your tÃ­a, your primo Lalo or anyone else (read: everyone).",
+          "generalLocation": "Miami (Fla)",
+          "headline": "Gay, Cuban and in Love",
+          "imageSmall": "images/2019/03/28/fashion/28elespace-1/merlin_152688069_d9607adc-f605-44de-9bf6-c9740256a20d-blog225.jpg",
+          "pubDate": "2019-06-28T09:00:08+0000",
+          "snippet": "This week on El Espace: An exhibition in Miami looks back on the cityâ€™s queer history, Latinx creators discuss their work and more.",
+          "url": "https://www.nytimes.com/2019/06/28/style/gay-cuban-and-in-love.html"
+        }
+      ],
+      "coordinates": {
+        "lat": 25.7616798,
+        "lng": -80.1917902
+      },
+      "numberArticles": 1
+    },
+    {
+      "articles": [
+        {
+          "byLine": "By Colin Moynihan",
+          "coordinates": {
+            "lat": 36.1531216,
+            "lng": -95.84181029999999
+          },
+          "firstParagraph": "Workers at the Solomon R. Guggenheim Museum voted Thursday night to join Local 30 of the International Union of Operating Engineers, which will be the first organized bargaining unit at the institution.",
+          "generalLocation": "none",
+          "headline": "Guggenheim Workers Vote to Join a Union, the Museumâ€™s First",
+          "imageSmall": "images/2019/06/12/arts/12guggenheim-item1/merlin_28195370_618889f7-c8fb-4ca4-88e6-31ed2d4ebc08-blog225.jpg",
+          "pubDate": "2019-06-28T15:35:16+0000",
+          "snippet": "Art installers and maintenance workers are to become part of the International Union of Operating Engineers, which also represents workers at MoMA PS1.",
+          "url": "https://www.nytimes.com/2019/06/28/arts/design/guggenheim-union-vote.html"
+        }
+      ],
+      "coordinates": {
+        "lat": 36.1531216,
+        "lng": -95.84181029999999
+      },
+      "numberArticles": 1
+    },
+    {
+      "articles": [
+        {
+          "byLine": "By Eric Asimov",
+          "coordinates": {
+            "lat": 36.7725774,
+            "lng": -6.3529689
+          },
+          "firstParagraph": "Manzanilla sherry is about as far as you can get from rosÃ© in wine. Thatâ€™s one good reason to make it our next subject.",
+          "generalLocation": "Sanlucar de Barrameda (Spain)",
+          "headline": "Manzanilla Sherry, the Salty Side of Wine",
+          "imageSmall": "images/2019/06/27/dining/27next1/merlin_156862431_01f90646-c495-48a2-9d18-fc3627d05255-blog225.jpg",
+          "pubDate": "2019-06-27T15:04:41+0000",
+          "snippet": "This distinctive form of fino sherry, from one seaside town in Andalusia, can be as captivating a summer drink as rosÃ©.",
+          "url": "https://www.nytimes.com/2019/06/27/dining/drinks/wine-school-assignment-manzanilla-sherry.html"
+        }
+      ],
+      "coordinates": {
+        "lat": 36.7725774,
+        "lng": -6.3529689
+      },
+      "numberArticles": 1
+    },
+    {
+      "articles": [
+        {
+          "byLine": "By Marisa Meltzer",
+          "coordinates": {
+            "lat": 40.7610403,
+            "lng": -73.961986
+          },
+          "firstParagraph": "In May 2018, Perelandra, a natural foods store and juice bar in Brooklyn Heights, sold 698 pounds of celery; in May 2019, they sold 1,245 pounds of it, according to Roland Auer, the storeâ€™s co-owner. Heâ€™s seen these patterns before. ",
+          "generalLocation": "none",
+          "headline": "Why Is Everyone Drinking Celery Juice as if It Will Save Them From Dying?",
+          "imageSmall": "images/2019/06/27/fashion/27celeryshortage-hp/merlin_106119430_af93d11b-a143-4861-923b-1901d9c007af-blog225.jpg",
+          "pubDate": "2019-06-27T04:00:02+0000",
+          "snippet": "Wellness gurus have extolled its benefits, but thereâ€™s no science that supports their claims.",
+          "url": "https://www.nytimes.com/2019/06/27/style/celery-juice-craze.html"
+        }
+      ],
+      "coordinates": {
+        "lat": 40.7610403,
+        "lng": -73.961986
+      },
+      "numberArticles": 1
+    },
+    {
+      "articles": [
+        {
+          "byLine": "By Robert Simonson",
+          "coordinates": {
+            "lat": 43.7695604,
+            "lng": 11.2558136
+          },
+          "firstParagraph": "The Negroni turns 100 this year. As recently as a decade ago, that bit of news would have drawn blank faces, communicating â€œSo?â€ or â€œWho cares?â€ or even â€œWhatâ€™s a Negroni?â€",
+          "generalLocation": "Florence (Italy)",
+          "headline": "The Negroni Is a Century Old, but Just Hitting Its Stride",
+          "imageSmall": "images/2019/07/03/dining/27Negroni1/merlin_157047090_0e41afee-fed1-4a9a-814f-26d38d9b0c30-blog225.jpg",
+          "pubDate": "2019-06-27T19:03:48+0000",
+          "snippet": "As it turns 100, the bracing cocktail is wildly popular, with a host of new riffs and variations.",
+          "url": "https://www.nytimes.com/2019/06/27/dining/negroni-cocktail.html"
+        }
+      ],
+      "coordinates": {
+        "lat": 43.7695604,
+        "lng": 11.2558136
+      },
+      "numberArticles": 1
+    },
+    {
+      "articles": [
+        {
+          "byLine": "By Scott Reyburn",
+          "coordinates": {
+            "lat": 43.604652,
+            "lng": 1.444209
+          },
+          "firstParagraph": "It was estimated to sell on Thursday in Toulouse, France, for at least $110 million, the highest auction price ever achieved for any artwork in Europe.",
+          "generalLocation": "Toulouse (France)",
+          "headline": "Mystery Buyer Snaps Up Painting Attributed to Caravaggio Before Auction",
+          "imageSmall": "images/2019/06/27/arts/26caravaggio1/merlin_151293390_246d32c7-4131-4e2e-a400-aa326dec1ec2-blog225.jpg",
+          "pubDate": "2019-06-26T17:44:22+0000",
+          "snippet": "The auctioneers said the painting will go on show in â€œan important museum.â€ But who bought it and where itâ€™s going are still unknown.",
+          "url": "https://www.nytimes.com/2019/06/26/arts/design/caravaggio-painting-mystery-buyer.html"
+        }
+      ],
+      "coordinates": {
+        "lat": 43.604652,
+        "lng": 1.444209
+      },
+      "numberArticles": 1
+    },
+    {
+      "articles": [
+        {
+          "byLine": "By Ted Loos",
+          "coordinates": {
+            "lat": 40.7395877,
+            "lng": -74.0088629
+          },
+          "firstParagraph": "The artist Brendan Fernandes was dancing by himself for a moment at the spring gala for the Guggenheimâ€™s Young Collectors Council, lost in the throbbing music as if he were in a club, not at the base of Frank Lloyd Wrightâ€™s rotunda, surrounded by hundreds of cocktail-wielding patrons.",
+          "generalLocation": "none",
+          "headline": "The Impresario of â€˜Ballet Kinkâ€™",
+          "imageSmall": "images/2019/06/30/arts/30brendanfernandes01/merlin_153581751_dc5c423e-7c0a-49c1-a014-6d57bd090efa-blog225.jpg",
+          "pubDate": "2019-06-28T14:17:18+0000",
+          "snippet": "Brendan Fernandes brings his subversive take on dance and art to museums.",
+          "url": "https://www.nytimes.com/2019/06/28/arts/design/ballet-performance-knots-whitney-biennial-culture.html"
+        }
+      ],
+      "coordinates": {
+        "lat": 40.7395877,
+        "lng": -74.0088629
+      },
+      "numberArticles": 1
+    },
+    {
+      "articles": [
+        {
+          "byLine": "By Michael Cooper",
+          "coordinates": {
+            "lat": 40.7385401,
+            "lng": -73.9894855
+          },
+          "firstParagraph": "American Ballet Theaterâ€™s Womenâ€™s Movement â€” a recent initiative to support female choreographers, who have often struggled to get their dances staged by major companies â€” will yield more fruit this fall, when the company will present world premieres of ballets by Twyla Tharp and Gemma Bond and the New York premiere of a Jessica Lang work.",
+          "generalLocation": "none",
+          "headline": "Female Choreographers Take Center Stage in Ballet Theaterâ€™s Fall Season",
+          "imageSmall": "images/2019/06/28/arts/27ballet-item-sub/merlin_155689989_d401a37e-924d-4836-9769-52268bcbd382-blog225.jpg",
+          "pubDate": "2019-06-27T16:00:06+0000",
+          "snippet": "The company will give world premieres of ballets by Twyla Tharp and Gemma Bond, and the New York premiere of a Jessica Lang work.",
+          "url": "https://www.nytimes.com/2019/06/27/arts/dance/female-choreographers-american-ballet-theater-season.html"
+        }
+      ],
+      "coordinates": {
+        "lat": 40.7385401,
+        "lng": -73.9894855
+      },
+      "numberArticles": 1
+    },
+    {
+      "articles": [
+        {
+          "byLine": "By Michael Cooper",
+          "coordinates": {
+            "lat": 40.772868,
+            "lng": -73.98294
+          },
+          "firstParagraph": "â€œMaÃ®tre!â€ Yannick NÃ©zet-SÃ©guin, the new music director of the Metropolitan Opera, cried out, using the French word for maestro, as he greeted Jaap van Zweden, the new music director of the New York Philharmonic. â€œCher maÃ®tre, good to see you!â€",
+          "generalLocation": "none",
+          "headline": "When Jaap Met Yannick: New Maestros in New York",
+          "imageSmall": "images/2019/06/30/arts/30CONDUCTOR-CONVO/merlin_156564597_0c767c66-4270-44cf-a5df-86f2aeb61250-blog225.jpg",
+          "pubDate": "2019-06-27T14:00:07+0000",
+          "snippet": "At the end of Jaap van Zwedenâ€™s rookie season at the New York Philharmonic, and Yannick NÃ©zet-SÃ©guinâ€™s at the Met Opera, they chatted. On neutral ground.",
+          "url": "https://www.nytimes.com/2019/06/27/arts/music/jaap-van-zweden-yannick-nezet-seguin-met-opera-new-york-philharmonic.html"
+        }
+      ],
+      "coordinates": {
+        "lat": 40.772868,
+        "lng": -73.98294
+      },
+      "numberArticles": 1
+    },
+    {
+      "articles": [
+        {
+          "byLine": "By Jason Farago",
+          "coordinates": {
+            "lat": 46.227638,
+            "lng": 2.213749
+          },
+          "firstParagraph": "BOURG-EN-BRESSE, France â€” Almost 500 years ago, in 1518 or 1519, the Flemish artist Bernard van Orley sat down to paint a portrait of Margaret of Austria, one of the most powerful women in Renaissance Europe. At age 3, she was queen of France. At 27, she became regent of the Netherlands, and Van Orley painted Margaret as a sturdy, composed politician in a portrait that would be copied across Europe.",
+          "generalLocation": "France",
+          "headline": "In France, Debates About the Veil Hide a Long History",
+          "imageSmall": "images/2019/06/28/arts/28veil1/28veil1-blog225.jpg",
+          "pubDate": "2019-06-28T08:00:07+0000",
+          "snippet": "An exhibition steps back from the countryâ€™s obsession with Muslim womenâ€™s dress to consider the many uses of head coverings throughout history.",
+          "url": "https://www.nytimes.com/2019/06/28/arts/in-france-debates-about-the-veil-hide-a-long-history.html"
+        }
+      ],
+      "coordinates": {
+        "lat": 46.227638,
+        "lng": 2.213749
+      },
+      "numberArticles": 1
+    },
+    {
+      "articles": [
+        {
+          "byLine": "By Zachary Woolfe",
+          "coordinates": {
+            "lat": 40.8622558,
+            "lng": -74.19780879999999
+          },
+          "firstParagraph": "The composer Kate Soper has made a specialty of turning dense, thorny, seemingly unmusical sources into elegant, surprisingly poignant art. Her â€œIpsa Dixit,â€ a Pulitzer Prize finalist in 2017, drew words from Aristotle, Freud, Plato and others to become that unlikeliest of works: a tender philosophical inquiry in sound.",
+          "generalLocation": "none",
+          "headline": "Kate Soperâ€™s New Opera Opens Next Year",
+          "imageSmall": "images/2019/06/27/arts/27peak-item/merlin_132344270_0f8aa27a-2972-4579-8c66-da429cb14125-blog225.jpg",
+          "pubDate": "2019-06-27T15:00:10+0000",
+          "snippet": "â€œThe Romance of the Roseâ€ is a highlight of the coming season of Peak Performances at Montclair State University.",
+          "url": "https://www.nytimes.com/2019/06/27/arts/music/kate-soper-opera-peak-performances.html"
+        }
+      ],
+      "coordinates": {
+        "lat": 40.8622558,
+        "lng": -74.19780879999999
+      },
+      "numberArticles": 1
+    },
+    {
+      "articles": [
+        {
+          "byLine": "By The Associated Press",
+          "coordinates": {
+            "lat": 41.2834704,
+            "lng": -70.099451
+          },
+          "firstParagraph": "BOSTON â€” A young man who accused Kevin Spacey of groping him at a resort island bar in 2016 has filed a lawsuit against the actor, who is also fighting a criminal charge stemming from the alleged assault.",
+          "generalLocation": "Nantucket (Mass)",
+          "headline": "Kevin Spacey Accuser Files Civil Lawsuit",
+          "imageSmall": "images/2019/06/27/arts/27spacey-item/merlin_156688617_e697a17c-290d-4f1c-ab4e-740423c58cfd-blog225.jpg",
+          "pubDate": "2019-06-27T16:20:53+0000",
+          "snippet": "The suit seeks unspecified damages for â€œsevere and permanent mental distress and emotional injuries.â€",
+          "url": "https://www.nytimes.com/2019/06/27/arts/television/kevin-spacey-civil-suit.html"
+        }
+      ],
+      "coordinates": {
+        "lat": 41.2834704,
+        "lng": -70.099451
+      },
+      "numberArticles": 1
+    },
+    {
+      "articles": [
+        {
+          "byLine": "By Ben Widdicombe",
+          "coordinates": {
+            "lat": 40.7253991,
+            "lng": -73.9833833
+          },
+          "firstParagraph": "Who says there isnâ€™t still some bohemia left in the East Village?",
+          "generalLocation": "none",
+          "headline": "Screen Actors Celebrate Pride. Yachtswomen Are Proud, Too.",
+          "imageSmall": "",
+          "pubDate": "2019-06-26T21:26:19+0000",
+          "snippet": "SAG-Aftra hosts a pride dinner at Club Cumming. And â€œMaiden,â€ a documentary about an all-female sailing crew, premieres in Manhattan.",
+          "url": "https://www.nytimes.com/2019/06/26/style/pride-screen-actors-guild-club-cumming.html"
+        }
+      ],
+      "coordinates": {
+        "lat": 40.7253991,
+        "lng": -73.9833833
+      },
+      "numberArticles": 1
+    },
+    {
+      "articles": [
+        {
+          "byLine": "By Sara Aridi",
+          "coordinates": {
+            "lat": 34.062176,
+            "lng": -118.358502
+          },
+          "firstParagraph": "John Cooper, the director of the Sundance Film Festival, will be stepping down next year, the Sundance Institute announced Thursday. He will take on the newly created role of emeritus director after the 2020 festival comes to a close in February. ",
+          "generalLocation": "none",
+          "headline": "Sundance Film Festivalâ€™s Longtime Leader Is Stepping Down",
+          "imageSmall": "images/2019/06/27/arts/27sundance1/merlin_149707533_4a2b19ff-3a84-4d73-8cca-6de4f0a4be5e-blog225.jpg",
+          "pubDate": "2019-06-27T20:50:07+0000",
+          "snippet": "After 11 years guiding indie cinemaâ€™s premier event, John Cooper will move to an emeritus role after the 2020 edition.",
+          "url": "https://www.nytimes.com/2019/06/27/movies/sundance-film-festival-john-cooper.html"
+        }
+      ],
+      "coordinates": {
+        "lat": 34.062176,
+        "lng": -118.358502
+      },
+      "numberArticles": 1
+    },
+    {
+      "articles": [
+        {
+          "byLine": "By Gabrielle Debinski",
+          "coordinates": {
+            "lat": 40.7469373,
+            "lng": -73.940835
+          },
+          "firstParagraph": " The SculptureCenter, a bold institution in Long Island City, Queens, that focuses on contemporary works and supporting artistic innovation, named Christian Rattemeyer its new director on Friday. ",
+          "generalLocation": "Long Island City (Queens, NY)",
+          "headline": "SculptureCenter Names New Director",
+          "imageSmall": "images/2019/06/28/arts/28sculpture-center/751e982bbca348c4b070b21d526ef75e-blog225.jpg",
+          "pubDate": "2019-06-28T15:40:56+0000",
+          "snippet": "The appointment, of Christian Rattemeyer, signals the first change of leadership at the art institution in nearly two decades.",
+          "url": "https://www.nytimes.com/2019/06/28/arts/design/sculpturecenter-new-director.html"
+        }
+      ],
+      "coordinates": {
+        "lat": 40.7469373,
+        "lng": -73.940835
+      },
+      "numberArticles": 1
+    },
+    {
+      "articles": [
+        {
+          "byLine": "By Cara Buckley",
+          "coordinates": {
+            "lat": 41.8876238,
+            "lng": -87.6242032
+          },
+          "firstParagraph": "For Jason Ward, an animal lover who grew up in homeless shelters in the South Bronx, hosting the bird-watching web series â€œBirds of North Americaâ€ is beyond a dream job.",
+          "generalLocation": "Central Park (Manhattan, NY)",
+          "headline": "A Bird Show Spots a Rival, and Bird-Watchers of Color Are Angry",
+          "imageSmall": "images/2019/06/28/arts/28birding-shows/28birding-shows-blog225.jpg",
+          "pubDate": "2019-06-28T16:51:18+0000",
+          "snippet": "Two nature series with black hosts debuted online recently. The makers of one say their rivals are playing into racial stereotypes.",
+          "url": "https://www.nytimes.com/2019/06/28/movies/birding-people-of-color-rolling-stone.html"
+        }
+      ],
+      "coordinates": {
+        "lat": 41.8876238,
+        "lng": -87.6242032
+      },
+      "numberArticles": 1
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+service: nyt-explore
+runtime: nodejs10
